@@ -1,0 +1,22 @@
+{
+  "name": "homeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seth1993/homeapp.git"
+  },
+  "author": "Seth Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seth1993/homeapp/issues"
+  },
+  "homepage": "https://github.com/seth1993/homeapp#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
